@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("Uzair pistot!\n");
+	printf("Bebe pistot!\n");
 }
