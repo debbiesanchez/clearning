@@ -16,5 +16,5 @@ int main()
 		fahr = (celcius * (9.0/5.0)) + 32;
 		printf("%6.1f %6.1f\n", celcius, fahr);
 		celcius = celcius + step;
-	}	
+	}
 }
